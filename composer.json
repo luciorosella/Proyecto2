@@ -8,5 +8,8 @@
             "email": "lucio.rosella.92@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "luciorosella/libreria2": "1.0.0",
+        "other/libreria6": "1.0.0"
+    }
 }
