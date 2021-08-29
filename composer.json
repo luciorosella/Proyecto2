@@ -1,0 +1,12 @@
+{
+    "name": "luciorosella/proyecto2",
+    "description": "Prueba Tecnica",
+    "type": "proyect",
+    "authors": [
+        {
+            "name": "Lucio Rosella",
+            "email": "lucio.rosella.92@gmail.com"
+        }
+    ],
+    "require": {}
+}
